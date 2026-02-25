@@ -152,3 +152,11 @@ This dashboard helps:
 This project demonstrates how healthcare data can be transformed into actionable insights using Power BI. The dashboard enables proactive risk identification, improved emergency care efficiency, and cost optimization, ultimately supporting better patient survival outcomes and data-driven hospital management.
 
 ---
+
+## 🚀 How to Use
+1. Download the `.pbix` file  
+2. Open in Power BI Desktop  
+3. Explore interactive visuals and insights  
+
+## 👨‍💻 Author
+SHASHANK SHEKHAR – Data Analyst (SQL | Excel | Power BI | Python | Tableau)
